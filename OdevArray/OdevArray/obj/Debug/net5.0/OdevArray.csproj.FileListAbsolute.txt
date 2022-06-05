@@ -1,0 +1,16 @@
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.exe
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.deps.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.runtimeconfig.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.runtimeconfig.dev.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\ref\OdevArray.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\bin\Debug\net5.0\OdevArray.pdb
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.AssemblyInfo.cs
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\ref\OdevArray.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.pdb
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-03.06.2022) 5 gun\5. Gun\OdevArray\OdevArray\obj\Debug\net5.0\OdevArray.genruntimeconfig.cache
